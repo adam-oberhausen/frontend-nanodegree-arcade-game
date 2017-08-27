@@ -12,9 +12,9 @@ Download the repository to your local machine and open _index.html_ file in any 
 ### How to Play
 
 Play mechanics are simple.
-  -Press up arrow on the keyboard to move the player up.
-  -Press down arrow on the keyboard to move the player down.
-  -Press left arrow on the keyboard to move the player left.
-  -Press right arrow on the keyboard to move the player right.
+  - Press up arrow on the keyboard to move the player up.
+  - Press down arrow on the keyboard to move the player down.
+  - Press left arrow on the keyboard to move the player left.
+  - Press right arrow on the keyboard to move the player right.
  
  Watch out for enemies (i.e. the bugs).  If a player collides with enemies, the player will die and the game will restart.
