@@ -7,7 +7,7 @@ This is a recreation of a classic "Frogger" style arcade game written using HTML
 
 ### Install
 
-Download the repository to your local machineand open index.html in any web browser.  The game should load and you can begin play immediately.
+Download the repository to your local machine and open _index.html_ file in any web browser.  The game should load and you can begin play immediately.
 
 ### How to Play
 
