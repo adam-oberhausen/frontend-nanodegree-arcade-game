@@ -1,6 +1,18 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+This is a recreation of a classic "Frogger" style arcade game written using HTML5, CSS, and Javascript.  The premise of the game is simple, victory is achieved when the player crosses the board and reaches the water.  If you get hit my an enemy bug the player dies and must restart the game.
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+#Quickstart
+
+Download the repository and open index.html in any web browser.  The game should load and you can begin play immediately.
+
+#How to Play
+
+Play mechanics are simple.
+  -Press up arrow on the keyboard to move the player up.
+  -Press down arrow on the keyboard to move the player down.
+  -Press left arrow on the keyboard to move the player left.
+  -Press right arrow on the keyboard to move the player right.
+ 
+ Watch out for enemies (i.e. the bugs).  If a player collides with enemies, the player will die and the game will restart.
