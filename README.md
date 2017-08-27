@@ -3,11 +3,13 @@ frontend-nanodegree-arcade-game
 
 This is a recreation of a classic "Frogger" style arcade game written using HTML5, CSS, and Javascript.  The premise of the game is simple, victory is achieved when the player crosses the board and reaches the water.  If you get hit my an enemy bug the player dies and must restart the game.
 
-# Quickstart
+## Quickstart
 
-Download the repository and open index.html in any web browser.  The game should load and you can begin play immediately.
+### Install
 
-# How to Play
+Download the repository to your local machineand open index.html in any web browser.  The game should load and you can begin play immediately.
+
+### How to Play
 
 Play mechanics are simple.
   -Press up arrow on the keyboard to move the player up.
